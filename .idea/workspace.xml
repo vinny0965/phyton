@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6f9a12a9-bdba-4472-b82c-a55ff6f11a75" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/Python Projects.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python Projects.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/area_restrita/Banco_de_Dados.py" beforeDir="false" afterPath="$PROJECT_DIR$/area_restrita/Banco_de_Dados.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AED/ListaFinalAED.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AED/main.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,7 +12,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DarkyenusTimeTracker">
-    <option name="totalTimeSeconds" value="801" />
+    <option name="totalTimeSeconds" value="1054" />
     <option name="gitIntegration" value="true" />
     <option name="naggedAbout" value="1" />
   </component>
@@ -206,7 +204,21 @@
       <option name="project" value="LOCAL" />
       <updated>1569729465045</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="editando arquivo banco de dados">
+      <created>1569729694327</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1569729694327</updated>
+    </task>
+    <task id="LOCAL-00007" summary="editando arquivo banco de dados, removendo return">
+      <created>1569729765809</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1569729765809</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -228,6 +240,8 @@
     <MESSAGE value="Adionando Pasta Tweeting" />
     <MESSAGE value="Editando lista Tweeting" />
     <MESSAGE value="Adicionando projeto de câmeras" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adicionando projeto de câmeras" />
+    <MESSAGE value="editando arquivo banco de dados" />
+    <MESSAGE value="editando arquivo banco de dados, removendo return" />
+    <option name="LAST_COMMIT_MESSAGE" value="editando arquivo banco de dados, removendo return" />
   </component>
 </project>
