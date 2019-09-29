@@ -25,3 +25,4 @@ def buscar_rede_principal(buscar):
         if c.get('busc') == buscar:
             return c
     return None
+    return

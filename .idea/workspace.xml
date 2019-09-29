@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6f9a12a9-bdba-4472-b82c-a55ff6f11a75" name="Default Changelist" comment="Editando lista encadeada">
+    <list default="true" id="6f9a12a9-bdba-4472-b82c-a55ff6f11a75" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/Python Projects.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python Projects.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/area_restrita/Banco_de_Dados.py" beforeDir="false" afterPath="$PROJECT_DIR$/area_restrita/Banco_de_Dados.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,7 +14,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DarkyenusTimeTracker">
-    <option name="totalTimeSeconds" value="614" />
+    <option name="totalTimeSeconds" value="801" />
     <option name="gitIntegration" value="true" />
     <option name="naggedAbout" value="1" />
   </component>
@@ -41,28 +44,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.aed_01 (1)">
-    <configuration name="ListaFinalAED" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Python Projects" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/.." />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../ListaFinalAED.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.menu">
     <configuration name="TesteListaFinalAED" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python Projects" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -147,13 +129,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="menu" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python Projects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tweeting" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tweeting/menu.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.menu" />
         <item itemvalue="Python.aed_01 (1)" />
         <item itemvalue="Python.aed_01" />
         <item itemvalue="Python.main" />
         <item itemvalue="Python.TesteListaFinalAED" />
-        <item itemvalue="Python.ListaFinalAED" />
       </list>
     </recent_temporary>
   </component>
@@ -182,7 +185,28 @@
       <option name="project" value="LOCAL" />
       <updated>1569721394599</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Editando lista Tweeting">
+      <created>1569728765174</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1569728765174</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Editando lista Tweeting">
+      <created>1569728890030</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1569728890030</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Adicionando projeto de câmeras">
+      <created>1569729465045</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1569729465045</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -202,6 +226,8 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Editando lista encadeada" />
     <MESSAGE value="Adionando Pasta Tweeting" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adionando Pasta Tweeting" />
+    <MESSAGE value="Editando lista Tweeting" />
+    <MESSAGE value="Adicionando projeto de câmeras" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adicionando projeto de câmeras" />
   </component>
 </project>
