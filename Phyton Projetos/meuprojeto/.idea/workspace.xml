@@ -1,0 +1,654 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8a380266-9019-4800-89fe-210c5907e34d" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LISTAS/questoes.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="986">
+              <caret line="58" column="10" selection-start-line="58" selection-start-column="10" selection-end-line="58" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LISTAS/Questao1.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LISTAS/Aula_AED_Lista_Encadeada/Aula_AED_Lista_Encadeada/LISTAS/Simplismente_encadiada/Lista.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LISTAS/Aula_AED_Lista_Encadeada/Aula_AED_Lista_Encadeada/LISTAS/Simplismente_encadiada/main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="425">
+              <caret line="25" selection-start-line="25" selection-end-line="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LISTAS/Aula_AED_Lista_Encadeada/Aula_AED_Lista_Encadeada/OO/bd_contas.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" column="23" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/LISTAS/Aula_AED_Lista_Encadeada/Aula_AED_Lista_Encadeada/OO/classes.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LISTAS/Aula_AED_Lista_Encadeada/Aula_AED_Lista_Encadeada/OO/controlador_admin.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="17" column="15" selection-start-line="17" selection-start-column="15" selection-end-line="17" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LISTAS/Aula_AED_Lista_Encadeada/Aula_AED_Lista_Encadeada/OO/controlador_contas.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LISTAS/Aula_AED_Lista_Encadeada/Aula_AED_Lista_Encadeada/OO/main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="19" column="17" lean-forward="true" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LISTAS/Aula_AED_Lista_Encadeada/Aula_AED_Lista_Encadeada/OO/menu.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="408">
+              <caret line="24" selection-start-line="24" selection-end-line="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Meus Arquivos/01.py" />
+        <option value="$PROJECT_DIR$/Orientação ao Objeto/02.py" />
+        <option value="$PROJECT_DIR$/Orientação ao Objeto/02.1.py" />
+        <option value="$PROJECT_DIR$/Atividades 1VA/Orientação ao Objeto/02.py" />
+        <option value="$PROJECT_DIR$/Orientação ao Objeto/Orientação ao Obejeto.2/01.py" />
+        <option value="$PROJECT_DIR$/Orientação ao Objeto/Orientação ao Obejeto.2/02.py" />
+        <option value="$PROJECT_DIR$/Atividades 1VA/arquivos/a2.py" />
+        <option value="$PROJECT_DIR$/Atividades 1VA/arquivos/a3.py" />
+        <option value="$PROJECT_DIR$/Atividades 1VA/arquivos/a1.py" />
+        <option value="$PROJECT_DIR$/Atividades 1VA/arquivos/v.txt" />
+        <option value="$PROJECT_DIR$/Atividades 1VA/arquivos/nomes4.txt" />
+        <option value="$PROJECT_DIR$/Atividades 1VA/arquivos/nomes.txt" />
+        <option value="$PROJECT_DIR$/Atividades 1VA/Funções/01.py" />
+        <option value="$PROJECT_DIR$/Atividades 1VA/Funções/02.py" />
+        <option value="$PROJECT_DIR$/Atividades 1VA/Funções/04.py" />
+        <option value="$PROJECT_DIR$/Atividades 1VA/Funções/05.py" />
+        <option value="$PROJECT_DIR$/Atividades 1VA/Funções/08.py" />
+        <option value="$PROJECT_DIR$/Atividades 1VA/Funções/09.py" />
+        <option value="$PROJECT_DIR$/Atividades 1VA/Funções/10.py" />
+        <option value="$PROJECT_DIR$/Atividades 1VA/Funções/11.py" />
+        <option value="$PROJECT_DIR$/Atividades 1VA/Funções/12.py" />
+        <option value="$PROJECT_DIR$/Atividades 1VA/Funções/13.py" />
+        <option value="$PROJECT_DIR$/Atividades 1VA/arquivos/matriz.py" />
+        <option value="$PROJECT_DIR$/Atividades 1VA/arquivos/a4.py" />
+        <option value="$PROJECT_DIR$/Atividades 1VA/arquivos/Nova pasta/arquivo1.txt" />
+        <option value="$PROJECT_DIR$/Atividades 1VA/arquivos/Nova pasta/arquivo2.txt" />
+        <option value="$PROJECT_DIR$/Atividades 1VA/arquivos/Nova pasta/05.py" />
+        <option value="$PROJECT_DIR$/Atividades 1VA/arquivos/Nova pasta/06.py" />
+        <option value="$PROJECT_DIR$/Atividades 1VA/arquivos/Nova pasta/sorteio.py" />
+        <option value="$PROJECT_DIR$/Projeto Twiter/00.py" />
+        <option value="$PROJECT_DIR$/Projeto Twiter/usuario.txt" />
+        <option value="$PROJECT_DIR$/Projeto Twiter/vini.txt" />
+        <option value="$PROJECT_DIR$/LISTAS/questoes.py" />
+        <option value="$PROJECT_DIR$/LISTAS/Questões  de 2 a 5.py" />
+        <option value="$PROJECT_DIR$/LISTAS/Questao1.py" />
+        <option value="$PROJECT_DIR$/LISTAS/Aula_AED_Lista_Encadeada/Aula_AED_Lista_Encadeada/OO/main.py" />
+        <option value="$PROJECT_DIR$/LISTAS/Aula_AED_Lista_Encadeada/Aula_AED_Lista_Encadeada/OO/classes.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="width" value="160" />
+    <option name="height" value="39" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="meuprojeto" type="b2602c69:ProjectViewProjectNode" />
+              <item name="meuprojeto" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="meuprojeto" type="b2602c69:ProjectViewProjectNode" />
+              <item name="meuprojeto" type="462c0819:PsiDirectoryNode" />
+              <item name="Atividades 1VA" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="meuprojeto" type="b2602c69:ProjectViewProjectNode" />
+              <item name="meuprojeto" type="462c0819:PsiDirectoryNode" />
+              <item name="LISTAS" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="meuprojeto" type="b2602c69:ProjectViewProjectNode" />
+              <item name="meuprojeto" type="462c0819:PsiDirectoryNode" />
+              <item name="LISTAS" type="462c0819:PsiDirectoryNode" />
+              <item name="Aula_AED_Lista_Encadeada" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="meuprojeto" type="b2602c69:ProjectViewProjectNode" />
+              <item name="meuprojeto" type="462c0819:PsiDirectoryNode" />
+              <item name="LISTAS" type="462c0819:PsiDirectoryNode" />
+              <item name="Aula_AED_Lista_Encadeada" type="462c0819:PsiDirectoryNode" />
+              <item name="Aula_AED_Lista_Encadeada" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="meuprojeto" type="b2602c69:ProjectViewProjectNode" />
+              <item name="meuprojeto" type="462c0819:PsiDirectoryNode" />
+              <item name="LISTAS" type="462c0819:PsiDirectoryNode" />
+              <item name="Aula_AED_Lista_Encadeada" type="462c0819:PsiDirectoryNode" />
+              <item name="Aula_AED_Lista_Encadeada" type="462c0819:PsiDirectoryNode" />
+              <item name="LISTAS" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="meuprojeto" type="b2602c69:ProjectViewProjectNode" />
+              <item name="meuprojeto" type="462c0819:PsiDirectoryNode" />
+              <item name="LISTAS" type="462c0819:PsiDirectoryNode" />
+              <item name="Aula_AED_Lista_Encadeada" type="462c0819:PsiDirectoryNode" />
+              <item name="Aula_AED_Lista_Encadeada" type="462c0819:PsiDirectoryNode" />
+              <item name="OO" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="meuprojeto" type="b2602c69:ProjectViewProjectNode" />
+              <item name="meuprojeto" type="462c0819:PsiDirectoryNode" />
+              <item name="Projeto Twiter" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="meuprojeto" type="b2602c69:ProjectViewProjectNode" />
+              <item name="meuprojeto" type="462c0819:PsiDirectoryNode" />
+              <item name="venv" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="meuprojeto" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.classes">
+    <configuration name="bd_contas" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="meuprojeto.py" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LISTAS/Aula_AED_Lista_Encadeada/Aula_AED_Lista_Encadeada/OO" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LISTAS/Aula_AED_Lista_Encadeada/Aula_AED_Lista_Encadeada/OO/bd_contas.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="classes" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="meuprojeto.py" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LISTAS/Aula_AED_Lista_Encadeada/Aula_AED_Lista_Encadeada/OO" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LISTAS/Aula_AED_Lista_Encadeada/Aula_AED_Lista_Encadeada/OO/classes.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="controlador_admin" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="meuprojeto.py" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LISTAS/Aula_AED_Lista_Encadeada/Aula_AED_Lista_Encadeada/OO" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LISTAS/Aula_AED_Lista_Encadeada/Aula_AED_Lista_Encadeada/OO/controlador_admin.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="meuprojeto.py" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LISTAS/Aula_AED_Lista_Encadeada/Aula_AED_Lista_Encadeada/OO" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LISTAS/Aula_AED_Lista_Encadeada/Aula_AED_Lista_Encadeada/OO/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="menu" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="meuprojeto.py" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LISTAS/Aula_AED_Lista_Encadeada/Aula_AED_Lista_Encadeada/OO" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LISTAS/Aula_AED_Lista_Encadeada/Aula_AED_Lista_Encadeada/OO/menu.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.classes" />
+        <item itemvalue="Python.main (1)" />
+        <item itemvalue="Python.menu" />
+        <item itemvalue="Python.controlador_admin" />
+        <item itemvalue="Python.bd_contas" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8a380266-9019-4800-89fe-210c5907e34d" name="Default Changelist" comment="" />
+      <created>1544639478530</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1544639478530</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18305598" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.8172043" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" weight="0.32872504" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32872504" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="R Graphics" order="3" />
+      <window_info anchor="right" id="R Packages" order="4" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18078668" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.8172043" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" weight="0.32872504" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32872504" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="R Graphics" order="3" />
+      <window_info anchor="right" id="R Packages" order="4" />
+    </layout-to-restore>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Orientação ao Objeto/02.1.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Orientação ao Objeto/02.1.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Orientação ao Objeto/02.1.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Orientação ao Objeto/02.1.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Atividades 1VA/Nova Aula/Lista de Exercicios 1/Aula5/01.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Atividades 1VA/Nova Aula/Lista de Exercicios 1/Aula5/02.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Atividades 1VA/Nova Aula/Lista de Exercicios 1/Aula5/03.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Atividades 1VA/Nova Aula/Lista de Exercicios 1/Aula5/04.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Atividades 1VA/Nova Aula/Lista de Exercicios 1/Aula5/05.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Atividades 1VA/Nova Aula/Lista de Exercicios 1/Aula5/06.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Atividades 1VA/Nova Aula/Lista de Exercicios 1/Aula4/01.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Atividades 1VA/Nova Aula/Lista de Exercicios 1/Aula4/02.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Atividades 1VA/Nova Aula/Lista de Exercicios 1/Aula4/03.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Atividades 1VA/Nova Aula/Lista de Exercicios 1/Aula4/06.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Atividades 1VA/Nova Aula/Lista de Exercicios 1/Aula4/05.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Atividades 1VA/Nova Aula/Correção 1VA/1.1VA/q2.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Atividades 1VA/Nova Aula/Correção 1VA/1.1VA/q3.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Atividades 1VA/Nova Aula/Correção 1VA/01.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Atividades 1VA/Nova Aula/Correção 1VA/Q3.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Atividades 1VA/Nova Aula/Correção 1VA/resolucao prova.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Atividades 1VA/Nova Aula/Correção 1VA/resolucao prova - parte 2 - A vigança.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1785" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Atividades 1VA/Nova Aula/Lista de Exercicios 5/Atividade2.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Atividades 1VA/Nova Aula/Lista de Exercicios 5/Atividade3.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Atividades 1VA/Nova Aula/Lista de Exercicios 5/Atividade5.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Atividades 1VA/Nova Aula/Lista de Exercicios 5/questao5.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Atividades 1VA/Nova Aula/Lista de Exercicios 1/exercicio3.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Atividades 1VA/Nova Aula/Lista de Exercicios 1/exercicio4.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Atividades 1VA/Nova Aula/Lista de Exercicios 1/exercicio6.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Atividades 1VA/Nova Aula/Lista de Exercicios 1/exercicio7.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Atividades 1VA/Nova Aula/Lista de Exercicios 1/exercicio8.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Atividades 1VA/Nova Aula/Lista de Exercicios 1/exercicio11.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Atividades 1VA/Nova Aula/Lista de Exercicios 1/exercicio12.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Atividades 1VA/Nova Aula/lista de exercicios 5.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Atividades 1VA/Nova Aula/Lista de Exercicios 6/q1.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Atividades 1VA/Nova Aula/Lista de Exercicios 1/exercicio13.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Atividades 1VA/arquivos/Nova pasta/arquivo3.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Atividades 1VA/arquivos/Nova pasta/arquivonovo.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Projeto Twiter/usuario.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="16" selection-start-column="16" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/teste.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="29" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Projeto Twiter/vini.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Projeto Twiter/teste.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="29" selection-start-line="28" selection-start-column="29" selection-end-line="28" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Projeto Twiter/00.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Atividades 1VA/arquivos/Nova pasta/sorteio.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Atividades 1VA/arquivos/Nova pasta/06.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LISTAS/Questões  de 2 a 5.py" />
+    <entry file="file://$PROJECT_DIR$/LISTAS/questoes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="986">
+          <caret line="58" column="10" selection-start-line="58" selection-start-column="10" selection-end-line="58" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LISTAS/Questao1.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LISTAS/Aula_AED_Lista_Encadeada/Aula_AED_Lista_Encadeada/LISTAS/Simplismente_encadiada/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LISTAS/Aula_AED_Lista_Encadeada/Aula_AED_Lista_Encadeada/LISTAS/Simplismente_encadiada/Lista.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LISTAS/Aula_AED_Lista_Encadeada/Aula_AED_Lista_Encadeada/OO/controlador_contas.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LISTAS/Aula_AED_Lista_Encadeada/Aula_AED_Lista_Encadeada/OO/controlador_admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="17" column="15" selection-start-line="17" selection-start-column="15" selection-end-line="17" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LISTAS/Aula_AED_Lista_Encadeada/Aula_AED_Lista_Encadeada/OO/bd_contas.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="23" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LISTAS/Aula_AED_Lista_Encadeada/Aula_AED_Lista_Encadeada/OO/menu.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LISTAS/Aula_AED_Lista_Encadeada/Aula_AED_Lista_Encadeada/OO/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="17" lean-forward="true" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LISTAS/Aula_AED_Lista_Encadeada/Aula_AED_Lista_Encadeada/OO/classes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

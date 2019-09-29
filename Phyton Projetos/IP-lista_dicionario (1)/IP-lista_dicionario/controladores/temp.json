@@ -1,0 +1,26 @@
+{
+  'cursos': {
+    '1010': {
+      'cod': '1010',
+      'nome': 'SISTEMAS',
+      'sigla': 'SI',
+      'status': True
+    },
+    '2020': {
+      'cod': '2020',
+      'nome': 'PESCA',
+      'sigla': 'PS',
+      'status': True
+    }
+  },
+  'disciplinas': {},
+  'alunos': {}
+}
+
+
+{
+  'cod': '1010',
+  'nome': 'SISTEMAS',
+  'sigla': 'SI',
+  'status': True
+}
