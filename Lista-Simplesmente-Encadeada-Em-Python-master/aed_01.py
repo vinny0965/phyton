@@ -42,30 +42,22 @@ class Listaencadeada:
 
     def inserir(self, pos, valor):
        no = No(valor)
-
        cont = 1
        perc = self.inicio
-
        if self.inicio == None:
            self.inicio = no
            self.fim = no
-
        elif pos <=0:
            no.proximo = self.inicio
            self.inicio = no
-
        elif pos > self.tamanho:
            raise("Posição Inválida")
-
-
-
        else:
           while cont != pos:
             perc = perc.proximo
             cont += 1
           no.proximo = perc.proximo
           perc.proximo = no
-
        self.tamanho += 1
 
     def buscarIndex(self, index):
@@ -85,6 +77,7 @@ class Listaencadeada:
 lista = Listaencadeada()
 lista.add(20)
 lista.add(30)
+lista.add(21)
 lista.inserir(1,13)
 lista.inserir(2,12)
 lista.buscarIndex(3)
