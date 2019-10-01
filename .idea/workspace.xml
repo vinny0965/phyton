@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="6f9a12a9-bdba-4472-b82c-a55ff6f11a75" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lista-Simplesmente-Encadeada-Em-Python-master/aed_01.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lista-Simplesmente-Encadeada-Em-Python-master/aed_01.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,7 +11,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DarkyenusTimeTracker">
-    <option name="totalTimeSeconds" value="378" />
+    <option name="totalTimeSeconds" value="1115" />
     <option name="gitIntegration" value="true" />
     <option name="naggedAbout" value="1" />
   </component>
@@ -28,7 +27,7 @@
     <property name="ChangesTree.GroupingKeys" value="" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="zielu.svntoolbox.prj.config" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -42,7 +41,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.menu">
+  <component name="RunManager" selected="Python.aed_01 (1)">
     <configuration name="TesteListaFinalAED" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python Projects" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -150,8 +149,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.menu" />
         <item itemvalue="Python.aed_01 (1)" />
+        <item itemvalue="Python.menu" />
         <item itemvalue="Python.aed_01" />
         <item itemvalue="Python.main" />
         <item itemvalue="Python.TesteListaFinalAED" />
@@ -253,7 +252,14 @@
       <option name="project" value="LOCAL" />
       <updated>1569731888123</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Adicionando mais um add na lista">
+      <created>1569879238168</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1569879238168</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -281,6 +287,7 @@
     <MESSAGE value="comentando arquivo tweeter" />
     <MESSAGE value="Enviando arquivos da pasta Phyton Projetos" />
     <MESSAGE value="Enviando arquivos da pasta Phyton Projetos ao 1 Período" />
-    <option name="LAST_COMMIT_MESSAGE" value="Enviando arquivos da pasta Phyton Projetos ao 1 Período" />
+    <MESSAGE value="Adicionando mais um add na lista" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adicionando mais um add na lista" />
   </component>
 </project>
