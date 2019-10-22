@@ -1,14 +1,13 @@
-
 class No(object):
 
-    
     def __init__(self, valor):
         self.valor = (valor)
         self.anterior = None
         self.proximo = None
 
+
 class ListaEncadeada(object):
-    
+
     def __init__(self, *args):
         self.inicio = None
         self.fim = None
@@ -18,8 +17,6 @@ class ListaEncadeada(object):
 
     def __len__(self):
         return self.tamanho
-
-
 
     def __str__(self):
 
@@ -45,7 +42,6 @@ class ListaEncadeada(object):
             aponta = aponta.proximo
         return estilolista + "]"
 
-
     def __getitem__(self, indice):
         aponta = self.percorrer_indice(indice)
         return aponta.valor
@@ -54,25 +50,22 @@ class ListaEncadeada(object):
         aponta = self.percorrer_indice(indice)
         aponta.valor = valor
 
-
     def adicionar(self, valor):
-        
+
         no = No(valor)
 
-        
         if not self.inicio:
 
             self.inicio = no
             self.fim = self.inicio
 
 
-       
+
         else:
             self.fim.proximo = no
             no.anterior = self.fim
             self.fim = no
         self.tamanho += 1
-
 
     def buscar_indice(self, indice):
         meio = self.tamanho // 2
@@ -80,17 +73,16 @@ class ListaEncadeada(object):
         if self.inicio and indice >= 0 and indice <= maximo:
             if indice >= meio:
                 aponta = self.fim
-                for item in range(maximo,indice,-1):
+                for item in range(maximo, indice, -1):
                     aponta = aponta.anterior
             else:
                 aponta = self.inicio
                 for item in range(indice):
                     aponta = aponta.proximo
-            
+
             return aponta
         raise IndexError("Índice fora de alcance")
-          
-    
+
     def inserir(self, indice, valor):
         no = No(valor)
         if indice >= self.tamanho and indice >= 0:
@@ -100,7 +92,7 @@ class ListaEncadeada(object):
                 no.proximo = self.inicio
                 self.inicio.anterior = no
                 self.inicio = no
-            else: 
+            else:
                 aponta = self.buscar_indice(indice)
                 no.proximo = aponta
                 no.anterior = aponta.anterior
@@ -112,19 +104,17 @@ class ListaEncadeada(object):
         if indice == 0:
             self.inicio = self.inicio.proximo
             self.inicio.anterior = None
-            
-        elif indice == self.tamanho -1:
+
+        elif indice == self.tamanho - 1:
             self.fim = self.fim.anterior
             self.fim.proximo = None
         else:
             aponta = self.buscar_indice(indice)
             aponta.anterior.proximo = aponta.proximo
             aponta.proximo.anterior = aponta.anterior
-        self.tamanho -= 1       
+        self.tamanho -= 1
 
-
-lista = ListaEncadeada(1,2,3,4,5)
-lista.remover(2)
-lista.inserir(1,3)
-print(lista)
-print(len(lista))
+lista = ListaEncadeada()
+#lista.inserir()
+#print(lista)
+#print(len(lista))

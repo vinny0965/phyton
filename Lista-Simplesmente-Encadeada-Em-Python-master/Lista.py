@@ -151,6 +151,4 @@ class Lista(object):
 
 
 lista = Lista()
-lista.inserir_Inicio(1)
-lista.inserir_Fim(3)
 print(lista)
